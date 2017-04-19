@@ -1,4 +1,7 @@
-# api documentation for  [satellizer (v0.15.5)](https://github.com/sahat/satellizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-satellizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-satellizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-satellizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-satellizer)
+# npmdoc-satellizer
+
+#### api documentation for  [satellizer (v0.15.5)](https://github.com/sahat/satellizer)  [![npm package](https://img.shields.io/npm/v/npmdoc-satellizer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-satellizer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-satellizer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-satellizer)
+
 #### Token-based AngularJS Authentication
 
 [![NPM](https://nodei.co/npm/satellizer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/satellizer)
